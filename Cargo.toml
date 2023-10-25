@@ -1,5 +1,5 @@
 [package]
-name = "postman_api"
+name = "sideko_postman_api"
 version = "1.0.0"
 edition = "2021"
 description = "Rust API bindings - spostman_api"
